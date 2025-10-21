@@ -35,8 +35,7 @@ o Adapt suggestions based on past user preferences and responses.
 
 # Output
 
-[Personal_Productivity_Assistant_Output.2.pdf](https://github.com/user-attachments/files/23020160/Personal_Productivity_Assistant_Output.2.pdf)
-
+[Personal_Productivity_Assistant_Output.2.pdf](https://github.com/user-attachments/files/23020323/Personal_Productivity_Assistant_Output.2.pdf)
 
 # Result: 
 
