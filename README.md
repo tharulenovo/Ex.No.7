@@ -1,4 +1,4 @@
-[Personal_Productivity_Assistant_Output.2.pdf](https://github.com/user-attachments/files/23020160/Personal_Productivity_Assistant_Output.2.pdf)# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
+# Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
 # Date: 18-10-2025
 # Register no. 25012025
@@ -35,7 +35,7 @@ o Adapt suggestions based on past user preferences and responses.
 
 # Output
 
-Personal_Productivity_Assistant_Output(2).pdf
+[Personal_Productivity_Assistant_Output.2.pdf](https://github.com/user-attachments/files/23020160/Personal_Productivity_Assistant_Output.2.pdf)
 
 
 # Result: 
